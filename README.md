@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on System Analyst in Impacto Soluções
-- 🌱 I’m currently learning React Native
-- 🤔 I’m looking for help with React Native
+- 🌱 I’m currently learning ReactJS/ React Native
+- 🤔 I’m looking for help with ReactJS/ React Native
 - 💬 Ask me about everthing!!
 - 📫 How to reach me: https://www.linkedin.com/in/mauriciobttcastro/
 
