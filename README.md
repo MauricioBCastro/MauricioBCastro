@@ -1,10 +1,10 @@
 ### Hi there, i'm Mauricio Britto de Castro. Welcome to my page!! 👋
 
 
-- 🔭 I’m currently working on System Analyst in Impacto Soluções
-- 🌱 I’m currently learning ReactJS/ React Native
-- 🤔 I’m looking for help with ReactJS/ React Native
-- 💬 Ask me about everthing!!
+- 🔭 I’m currently working on Product Owner in Sistema Info
+- 🌱 I’m currently learning Python
+- 🤔 I’m looking for help with Python
+- 💬 Ask me about whatever you like!!
 - 📫 How to reach me: https://www.linkedin.com/in/mauriciobttcastro/
 
 <div align="center">
