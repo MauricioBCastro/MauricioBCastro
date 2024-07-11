@@ -1,7 +1,7 @@
 ### Hi there, i'm Mauricio Britto de Castro. Welcome to my page!! 👋
 
 
-- 🔭 I’m currently working on Product Owner in Sistema Info
+- 🔭 I’m currently working on Business Analyst in Thomson Reuters
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about whatever you like!!
